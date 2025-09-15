@@ -10,12 +10,12 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "^15.4.6",
+    "next": "^14.2.32",
     "@mirohq/miro-api": "^1.0.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "dotenv": "^16.0.3",
-    "cookie": "^1.0.2"
+    "cookie": "^0.7.1"
   },
   "devDependencies": {
     "@mirohq/websdk-types": "latest",

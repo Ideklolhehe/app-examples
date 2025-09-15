@@ -15,7 +15,7 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "vite": "7.1.2",
+    "vite": "7.1.5",
     "@mirohq/websdk-types": "latest",
     "@types/react": "^18.0.24",
     "@types/react-dom": "^18.0.8",

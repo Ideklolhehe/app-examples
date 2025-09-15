@@ -12,11 +12,11 @@
   "dependencies": {
     "@mirohq/miro-api": "^1.0.2",
     "@stripe/react-stripe-js": "^2.1.0",
-    "cookie": "^1.0.2",
+    "cookie": "^0.7.1",
     "cookies": "^0.8.0",
     "dotenv": "^16.0.3",
     "micro": "^10.0.1",
-    "next": "^15.4.6",
+    "next": "^14.2.32",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "stripe": "^12.3.0"

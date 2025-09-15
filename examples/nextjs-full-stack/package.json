@@ -12,10 +12,10 @@
   },
   "dependencies": {
     "@mirohq/miro-api": "^1.0.1",
-    "axios": "^0.30.0",
+    "axios": "^1.12.0",
     "busboy": "^1.6.0",
     "cookie": "^0.7.0",
-    "next": "^14.2.30",
+    "next": "^14.2.32",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
